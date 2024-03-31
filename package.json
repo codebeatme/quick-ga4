@@ -1,6 +1,6 @@
 {
   "name": "quick-ga4",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "Quick GA4 (quick-ga4.js) is a free third-party lightweight minimized page script (JavaScript) for Google Analytics. It implements the main useful functions of the official GA4 script, including Page views, Scrolls, Outbound clicks, Site search, and File downloads in Enhanced measurement.",
   "main": "quick-ga4.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "Google Analytics",
     "GTAG"
   ],
-  "author": "CodeBeatme",
+  "author": "Beatme Code",
   "license": "CC-BY-NC-ND-4.0",
   "repository": {
     "type": "git",
